@@ -1,0 +1,144 @@
+From:  Moscow, Russia
+To  :  Istanbul, Turkey
+       Taipei, Taiwan
+       London, United Kingdom
+       New York City, United States
+From:  Tokyo, Japan
+To  :  Oslo, Norway
+       Geneva, Switzerland
+       Dublin, Ireland
+From:  Hong Kong, SAR
+To  :  Tokyo, Japan
+       Shanghai, People's Republic of China
+       Beijing, People's Republic of China
+       Kiev, Ukraine
+       London, United Kingdom
+       Milan, Italy
+       Dublin, Ireland
+From:  Osaka, Japan
+To  :  Istanbul, Turkey
+       Douala, Cameroon
+       Rome, Italy
+       London, United Kingdom
+       Moscow, Russia
+       Sydney, Australia
+From:  Geneva, Switzerland
+To  :  Los Angeles, United States
+       Vienna, Austria
+       Rome, Italy
+       Zurich, Switzerland
+       Tel Aviv, Israel
+       Abu Dhabi, United Arab Emirates
+       Dublin, Ireland
+From:  Zurich, Switzerland
+To  :  Paris, France
+       London, United Kingdom
+       Rome, Italy
+       Osaka, Japan
+       Dublin, Ireland
+       St. Petersburg, Russia
+From:  Oslo, Norway
+To  :  Kiev, Ukraine
+       Istanbul, Turkey
+       Vienna, Austria
+From:  New York City, United States
+To  :  Istanbul, Turkey
+       Singapore, Singapore
+       Tel Aviv, Israel
+From:  St. Petersburg, Russia
+To  :  Copenhagen, Denmark
+       Paris, France
+       Milan, Italy
+From:  Milan, Italy
+To  :  Hong Kong, SAR
+       Tokyo, Japan
+       Geneva, Switzerland
+From:  Beijing, People's Republic of China
+To  :  Vienna, Austria
+       Paris, France
+       Rome, Italy
+       Hong Kong, SAR
+       New York City, United States
+       Sydney, Australia
+       Helsinki, Finland
+From:  Paris, France
+To  :  Milan, Italy
+       St. Petersburg, Russia
+       Osaka, Japan
+       London, United Kingdom
+       Douala, Cameroon
+       Taipei, Taiwan
+       Beijing, People's Republic of China
+       New York City, United States
+       Istanbul, Turkey
+From:  Singapore, Singapore
+To  :  Vienna, Austria
+       Kiev, Ukraine
+From:  Dublin, Ireland
+To  :  Copenhagen, Denmark
+       London, United Kingdom
+       Tel Aviv, Israel
+       St. Petersburg, Russia
+       Geneva, Switzerland
+From:  Shanghai, People's Republic of China
+To  :  Abu Dhabi, United Arab Emirates
+       Paris, France
+From:  Rome, Italy
+To  :  Kiev, Ukraine
+       Sydney, Australia
+       Shanghai, People's Republic of China
+       Seoul, South Korea
+       Copenhagen, Denmark
+       Istanbul, Turkey
+       Douala, Cameroon
+       Beijing, People's Republic of China
+From:  Kiev, Ukraine
+To  :  Moscow, Russia
+       Oslo, Norway
+From:  Vienna, Austria
+To  :  Beijing, People's Republic of China
+From:  Tel Aviv, Israel
+To  :  Shanghai, People's Republic of China
+       Rome, Italy
+       Milan, Italy
+       New York City, United States
+       Osaka, Japan
+       Paris, France
+From:  Helsinki, Finland
+To  :  Tokyo, Japan
+       Kiev, Ukraine
+       Abu Dhabi, United Arab Emirates
+       Oslo, Norway
+       Istanbul, Turkey
+       Zurich, Switzerland
+       Milan, Italy
+       Taipei, Taiwan
+From:  Dubai, United Arab Emirates
+To  :  Oslo, Norway
+       St. Petersburg, Russia
+       Singapore, Singapore
+       Zurich, Switzerland
+From:  Douala, Cameroon
+To  :  Sydney, Australia
+       Oslo, Norway
+       Tel Aviv, Israel
+       Moscow, Russia
+       Milan, Italy
+       Beijing, People's Republic of China
+From:  Taipei, Taiwan
+To  :  Hong Kong, SAR
+       Zurich, Switzerland
+       Sydney, Australia
+       Osaka, Japan
+       Moscow, Russia
+       Dublin, Ireland
+       Paris, France
+From:  Los Angeles, United States
+To  :  Tokyo, Japan
+       Helsinki, Finland
+       London, United Kingdom
+       Vienna, Austria
+       Shanghai, People's Republic of China
+       Beijing, People's Republic of China
+From:  Abu Dhabi, United Arab Emirates
+To  :  Osaka, Japan
